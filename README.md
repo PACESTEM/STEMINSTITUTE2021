@@ -1,4 +1,4 @@
-# STEM INSTITUTE 2020
+# STEM INSTITUTE 2021
 
 ![logostem2020](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/logostem2020.png)
 
@@ -28,7 +28,7 @@
 * Instruction - Zoom
 * Communication - Slack
 * Documentation - GitHub
-* Exploration of the data - Excel
+* Exploration of the data - Excel, Python
 * Code - Python, Google Colab, GitHub
 * Design thinking - Mural, Mentimeter
 * Presentation - Google Docs
@@ -38,6 +38,24 @@
 * [Google Colab Slides](https://drive.google.com/file/d/1WQQcuEWbzwe_rlfRMxnfXoWI4e2QwSNf/view?usp=sharing)
 * Edgar Allan Poe text http://webpage.pace.edu/fparisi/STEM-2020/Python/poe.txt
 
+### Billion Oyster Project (BOP)
+
+* What is BOP?
+  * [BOP web site](https://www.billionoysterproject.org)
+  * [Video: How the Billion Oyster Project Got Started](https://youtu.be/bIre6IK1YxQ)
+  * [Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
+* Learning resources
+  * [BOP Remote Learning Resources](https://www.billionoysterproject.org/remote-learning)
+* Data
+  * [Field Science Manual: Oyster Restoration Station](https://drive.google.com/file/d/0Bzf_STNcTtRmZF9ldmdWRzcxdFk/view) (how data are collected)
+  * Access the data. [BOP Platform](https://platform.bop.nyc/expeditions/data) (not currrently possible)
+  * [Data How-to Guide](https://github.com/BillionOysterProject/docs/wiki/Data-How-To-Guide)
+  * [Digital Platform User Guide Table of Contents](https://github.com/BillionOysterProject/docs/wiki/Digital-Platform-User-Guide-Table-of-Contents)
+* Sample research questions
+  * [Middle school students’ research projects](https://www.flickr.com/photos/nyhf/sets/72157683204769971/page1)
+* Quiz
+  * [https://quiz.tryinteract.com/#/5eed0e0f772a3800143efbd7](How much do you know about Oyster History of NYC?)
+  
 ## Design thinking
 
 * [Ice breaker activity](https://bit.ly/ssi-icebreaker)
