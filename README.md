@@ -14,7 +14,7 @@
 
 * [Schedule](https://docs.google.com/spreadsheets/d/1PjG6YZQcCmOUWB2shjszBQQ0kA4css_jgZ12zXbwtnM/edit#gid=820417722)
 
-* ## Staff
+## Staff
 
 * [Staff & Speakers directory](https://docs.google.com/presentation/d/1Dd6SP18gxQ_ah0ryxrrEfqT_bKgAaz3wzwACqVK81sk/edit?usp=sharing)
 
@@ -87,23 +87,6 @@ Please note that the slides are in a Google Colab notebook.
 * Quiz
   * [https://quiz.tryinteract.com/#/5eed0e0f772a3800143efbd7](How much do you know about Oyster History of NYC?)
   
-### Billion Oyster Project (BOP)
-
-* What is BOP?
-  * [BOP web site](https://www.billionoysterproject.org)
-  * [Video: How the Billion Oyster Project Got Started](https://youtu.be/bIre6IK1YxQ)
-  * [Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
-* Learning resources
-  * [BOP Remote Learning Resources](https://www.billionoysterproject.org/remote-learning)
-* Data
-  * [Field Science Manual: Oyster Restoration Station](https://drive.google.com/file/d/0Bzf_STNcTtRmZF9ldmdWRzcxdFk/view) (how data are collected)
-  * Access the data. [BOP Platform](https://platform.bop.nyc/expeditions/data) (not currrently possible)
-  * [Data How-to Guide](https://github.com/BillionOysterProject/docs/wiki/Data-How-To-Guide)
-  * [Digital Platform User Guide Table of Contents](https://github.com/BillionOysterProject/docs/wiki/Digital-Platform-User-Guide-Table-of-Contents)
-* Sample research questions
-  * [Middle school students’ research projects](https://www.flickr.com/photos/nyhf/sets/72157683204769971/page1)
-
-
 ## Resources
 
 ### Python
