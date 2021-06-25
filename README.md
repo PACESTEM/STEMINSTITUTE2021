@@ -16,7 +16,7 @@
 
 ## Staff
 
-* [Staff & Speakers directory](https://docs.google.com/presentation/d/1Dd6SP18gxQ_ah0ryxrrEfqT_bKgAaz3wzwACqVK81sk/edit?usp=sharing)
+* [Staff & Speakers directory](https://docs.google.com/presentation/d/1Fa89qLjVgeeZ0RhULAfx9kNfVDj-v43euFdgOtjZ0pU/edit?usp=sharing)
 
 ## Learning outcomes
 
