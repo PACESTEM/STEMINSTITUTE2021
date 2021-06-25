@@ -36,11 +36,11 @@
 
 ## Tools
 
-* Instruction - [https://docs.google.com/document/d/1EA4UlzNcHmqNC3RdYXvN3N4loJauZpHhSJ5to0Iym4M/edit?usp=sharing](Zoom)
-* Communication - [https://pacestem2021.slack.com.](Slack
+* Instruction - [Zoom](https://docs.google.com/document/d/1EA4UlzNcHmqNC3RdYXvN3N4loJauZpHhSJ5to0Iym4M/edit?usp=sharing)
+* Communication - [Slack](https://pacestem2021.slack.com)
 * Documentation - GitHub
 * Exploration of the data - Excel, Python
-* Code - Python, [https://colab.research.google.com](Google Colab), GitHub
+* Code - Python, [Google Colab](https://colab.research.google.com), GitHub
 * Design thinking - Miro
 * Presentations - Google Docs
 
@@ -85,13 +85,14 @@ Please note that the slides are in a Google Colab notebook.
 * Sample research questions
   * [Middle school students’ research projects](https://www.flickr.com/photos/nyhf/sets/72157683204769971/page1)
 * Quiz
-  * [https://quiz.tryinteract.com/#/5eed0e0f772a3800143efbd7](How much do you know about Oyster History of NYC?)
+  * [How much do you know about Oyster History of NYC?](https://quiz.tryinteract.com/#/5eed0e0f772a3800143efbd7)
   
 ## Resources
 
 ### Python
 
 * [Learn Python](https://www.learnpython.org)
+* [Learning Python with Karel](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html)
 * [numpy](https://www.learnpython.org/en/Numpy_Arrays)
 * [pandas](https://www.learnpython.org/en/Pandas_Basics)
 
