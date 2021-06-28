@@ -13,7 +13,10 @@
 ## Schedule 
 
 * [Schedule](https://docs.google.com/spreadsheets/d/1PjG6YZQcCmOUWB2shjszBQQ0kA4css_jgZ12zXbwtnM/edit#gid=820417722)
-
+* Calendars
+  * [Group A with Dr. Parisi](https://calendar.google.com/calendar/render?cid=u8avjdjnnk9ja2jsam73g1826o@group.calendar.google.com)
+  * [Group B with Dr. Scharff, Kaleema and Krishna](https://calendar.google.com/calendar/render?cid=fovnnnnid479p81rdrvn86ai4c@group.calendar.google.com)
+  
 ## Staff
 
 * [Staff & Speakers directory](https://docs.google.com/presentation/d/1Fa89qLjVgeeZ0RhULAfx9kNfVDj-v43euFdgOtjZ0pU/edit?usp=sharing)
