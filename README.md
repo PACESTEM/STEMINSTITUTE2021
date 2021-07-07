@@ -51,7 +51,7 @@
 
 Please note that the slides are in a Google Colab notebook.
 
-* [Slides](https://colab.research.google.com/drive/1mjppO_ZxcSi1r3S33u9WdEfJfXe_QQJh?usp=sharing)
+* [Slides](https://colab.research.google.com/drive/14mo3BM9nqwnhPEE-tZf7ZcGT4lrt1g0L#scrollTo=tp2axhRBdGYy)
 
 ## Design thinking
 
