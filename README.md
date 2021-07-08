@@ -20,6 +20,8 @@
 ## Staff
 
 * [Staff & Speakers directory](https://docs.google.com/presentation/d/1Fa89qLjVgeeZ0RhULAfx9kNfVDj-v43euFdgOtjZ0pU/edit?usp=sharing)
+* Dr. Parisi, Dr. Scharff, Prof. Kaleema Lnu, Prof. Krishna Bathula
+* Thanks to our wonderful mentors: Sunanda Singareddy, Yadhavi Rao, Yashraj Bhandare, Shubbham Trivedi
 
 ## Learning outcomes
 
@@ -64,13 +66,9 @@ Please note that the slides are in a Google Colab notebook.
 
 * Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. 
 * Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY. 
-* AppFigures
-* Google
-* Seidenberg students' panel
-
-## Data
-
-* Data are described [here](https://docs.google.com/document/d/1BppGE4tFe6V_BtuEFKNObhGCft9Ql_QY9HXhwgvmlCM/edit?usp=sharing). 
+* Panel with AppFigures - Ariel Michaeli, Co-Founder, Oz Michaeli, Co-Founder & Head of Product, Alex Quick, Head of Engineering, Joshua Vernazza, Head of Data Science
+* Google - Josh Gordon, Developer Advocate, will show fun examples of deep learning applications
+* Seidenberg students' panel - Angela Bonsol (2021), Vivian Ng (2020), Vicente Gomez (2021)
 
 ## Billion Oyster Project (BOP)
 
