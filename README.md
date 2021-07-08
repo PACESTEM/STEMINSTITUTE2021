@@ -12,7 +12,7 @@
 
 ## Schedule 
 
-* [Schedule](https://docs.google.com/spreadsheets/d/1PjG6YZQcCmOUWB2shjszBQQ0kA4css_jgZ12zXbwtnM/edit#gid=820417722)
+* [Schedule](https://docs.google.com/spreadsheets/d/1kHmLyc1-RH9oxfu6BGAC30INr6PgUHkF_F-VcsyqkIA/edit?usp=sharing)
 * Calendars
   * [Group A with Dr. Parisi](https://calendar.google.com/calendar/render?cid=u8avjdjnnk9ja2jsam73g1826o@group.calendar.google.com)
   * [Group B with Dr. Scharff, Kaleema and Krishna](https://calendar.google.com/calendar/render?cid=fovnnnnid479p81rdrvn86ai4c@group.calendar.google.com)
@@ -51,7 +51,7 @@
 
 Please note that the slides are in a Google Colab notebook.
 
-* [Slides](https://colab.research.google.com/drive/14mo3BM9nqwnhPEE-tZf7ZcGT4lrt1g0L#scrollTo=tp2axhRBdGYy)
+* [Slides](https://colab.research.google.com/drive/14mo3BM9nqwnhPEE-tZf7ZcGT4lrt1g0L?usp=sharing)
 
 ## Design thinking
 
