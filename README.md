@@ -120,13 +120,21 @@ Presentations, code, murals etc.
 *Please note that some of the links require access.*
 
 * Team 1
+    - [MIRO](https://miro.com/app/board/o9J_l76GeJk=/)
 * Team 2
+    - [MIRO](https://miro.com/app/board/o9J_l76bvd0=/)
 * Team 3
+     - [MIRO](https://miro.com/app/board/o9J_l76bvYM=/)
 * Team 4
+    - [MIRO](https://miro.com/app/board/o9J_l76bvZo=/)
 * Team 5
+    - [MIRO](https://miro.com/app/board/o9J_l76bva0=/)
 * Team 6
+    - [MIRO](https://miro.com/app/board/o9J_l76bvbA=/)
 * Team 7
+    - [MIRO](https://miro.com/app/board/o9J_l76bvbg=/)
 * Team 8
+    - [MIRO](https://miro.com/app/board/o9J_l75nSVg=/)
 
 ## Ceremony
 
