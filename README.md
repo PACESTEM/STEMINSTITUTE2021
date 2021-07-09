@@ -65,7 +65,7 @@ Please note that the slides are in a Google Colab notebook.
 ## Invited talks
 
 * Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. 
-* Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY. 
+* Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY. (Slides)[https://docs.google.com/presentation/d/1VgxACi-QstRGp69tOH3nE2IYxD9VORvtUe0Lz_yGvhU/edit?usp=sharing]
 * Panel with AppFigures - Ariel Michaeli, Co-Founder, Oz Michaeli, Co-Founder & Head of Product, Alex Quick, Head of Engineering, Joshua Vernazza, Head of Data Science
 * Google - Josh Gordon, Developer Advocate, will show fun examples of deep learning applications
 * Seidenberg students' panel - Angela Bonsol (2021), Vivian Ng (2020), Vicente Gomez (2021)
