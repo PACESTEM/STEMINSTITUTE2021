@@ -83,11 +83,17 @@ Please note that the slides are in a Google Colab notebook.
   * [Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
 * Learning resources
   * [BOP Remote Learning Resources](https://www.billionoysterproject.org/remote-learning)
+* [Oyster Ecology](https://docs.google.com/document/d/1AIbXSvcxBy1mcWgarnsKcc8aIhqYLCSuFEWFUtxBgVg/edit?ts=60ae5aaa)
 * Data
   * [Field Science Manual: Oyster Restoration Station](https://drive.google.com/file/d/0Bzf_STNcTtRmZF9ldmdWRzcxdFk/view) (how data are collected)
   * Access the data. [BOP Platform](https://platform.bop.nyc/expeditions/data) (not currrently possible)
   * [Data How-to Guide](https://github.com/BillionOysterProject/docs/wiki/Data-How-To-Guide)
   * [Digital Platform User Guide Table of Contents](https://github.com/BillionOysterProject/docs/wiki/Digital-Platform-User-Guide-Table-of-Contents)
+  * BOP [ORS](https://docs.google.com/spreadsheets/d/1t48Rxz7MpZNZAyAkNjpcBv-TxIyDvMchy2Ku4rxsL6A/edit), BOP Oyster [Reefs](https://docs.google.com/spreadsheets/d/1Ni_Lab5TRogjsxrvLmEDxHiVlR9Xx1q7NY_A_220oik/edit#gid=35877098), BOP Oyster [Nurseries](https://docs.google.com/spreadsheets/d/1B1X9731-b76SdbxyHsdDvfMvIIDfIMFfQTsKpFf0Ku4/edit#gid=0) - all oyster data (heights, live/dead in some cases)
+  * Billion Oyster Project’s Water Quality Data
+  * [Dissolved Oxygen 2017-2018](https://docs.google.com/spreadsheets/d/11WhZ2qIl6vg5c_I7Stv8qO_Tj-LLmUQ8GCE-K6jciyE/edit#gid=0)
+  * [Salinity 2017-2019](https://docs.google.com/spreadsheets/d/18It3ZeqJlPE1-lS-3VTuQ2WzSJPZTwS-jWSnL4YqdQo/edit#gid=0)
+  * [Temperature 2017-2019](https://docs.google.com/spreadsheets/d/1DlQKw6iq5-k8IoFDL0vfyuqPuMV0mD4Fdrbp1OD1CKo/edit#gid=0)
 * Sample research questions
   * [Middle school students’ research projects](https://www.flickr.com/photos/nyhf/sets/72157683204769971/page1)
 * Quiz
