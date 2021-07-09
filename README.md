@@ -58,7 +58,7 @@ Please note that the slides are in a Google Colab notebook.
 ## Design thinking
 
 * Ice breaker
-* Data Visualization
+* [Data Visualization](https://docs.google.com/presentation/d/1jf5dnhHe3aDcaNdfqTdr9WaW37MJqwe5J3oEfeoCzQY/edit?usp=sharing)
 * Design Thinking
 * Storytelling
 
