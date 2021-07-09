@@ -70,7 +70,12 @@ Please note that the slides are in a Google Colab notebook.
 * Google - Josh Gordon, Developer Advocate, will show fun examples of deep learning applications
 * Seidenberg students' panel - Angela Bonsol (2021), Vivian Ng (2020), Vicente Gomez (2021)
 
-## Billion Oyster Project (BOP)
+## Data
+
+* The data that will be used are: [bop_data.csv](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/bop_data.csv). 
+* A description of the data is in the [data dictionary](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/DataDictionary.csv).
+
+## Billion Oyster Project (BOP) Resources
 
 * What is BOP?
   * [BOP web site](https://www.billionoysterproject.org)
