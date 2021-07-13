@@ -59,7 +59,7 @@ Please note that the slides are in a Google Colab notebook.
 
 * Ice breaker
 * [Data Visualization](https://docs.google.com/presentation/d/1jf5dnhHe3aDcaNdfqTdr9WaW37MJqwe5J3oEfeoCzQY/edit?usp=sharing)
-* Design Thinking
+* [Design Thinking](https://drive.google.com/file/d/1DXxFMXPoggqbXXGSmgenH_RP4ALcWssD/view?usp=sharing)
 * Storytelling
 
 ## Invited talks
