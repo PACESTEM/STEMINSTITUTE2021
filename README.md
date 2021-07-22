@@ -136,20 +136,28 @@ Presentations, code, murals etc.
 
 * Team 1
     - [MIRO](https://miro.com/app/board/o9J_l76GeJk=/)
+    - [Presentation](https://drive.google.com/file/d/19CV_XDHzk0ciSFZ67WwEbIhVXQ_DeP1r/view?usp=sharing)
 * Team 2
     - [MIRO](https://miro.com/app/board/o9J_l76bvd0=/)
+    - [Presentation](https://drive.google.com/file/d/1NpvuXseTlC-zG19iEsVZ1RaC_Dd20NMh/view?usp=sharing)
 * Team 3
      - [MIRO](https://miro.com/app/board/o9J_l76bvYM=/)
+    - [Presentation](https://drive.google.com/file/d/1ajo3_7w3-7SPN6JBWzSvNtLXVJdHELuM/view?usp=sharing)
 * Team 4
     - [MIRO](https://miro.com/app/board/o9J_l76bvZo=/)
+    - [Presentation](https://drive.google.com/file/d/1Q1HM_D65dntChX3XrjcmF7KhgCiJ4K0A/view?usp=sharing)
 * Team 5
     - [MIRO](https://miro.com/app/board/o9J_l76bva0=/)
+    - [Presentation](https://drive.google.com/file/d/1RrshB-O_XSIMu9UHyu5cwgvAcTdfBbKZ/view?usp=sharing)
 * Team 6
     - [MIRO](https://miro.com/app/board/o9J_l76bvbA=/)
+    - [Presentation](https://drive.google.com/file/d/1iXyX4wLYblMFEQ3gsdw0f7hWjS9wYKjC/view?usp=sharing)
 * Team 7
     - [MIRO](https://miro.com/app/board/o9J_l76bvbg=/)
+    - [Presentation](https://drive.google.com/file/d/1Z7EDAzljSafYGx6FiAcE3hRJdBLB9RCq/view?usp=sharing)
 * Team 8
     - [MIRO](https://miro.com/app/board/o9J_l75nSVg=/)
+    - [Presentation](https://drive.google.com/file/d/1XYm6QATTkm7sIhJUPDSfhPiYMNhVkC1T/view?usp=sharing)
 
 ## Ceremony
 
