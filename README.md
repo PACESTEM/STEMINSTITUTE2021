@@ -54,7 +54,11 @@
 Please note that the slides are in a Google Colab notebook.
 
 * [Slides](https://colab.research.google.com/drive/14mo3BM9nqwnhPEE-tZf7ZcGT4lrt1g0L?usp=sharing)
-
+* [Linear regression](https://colab.research.google.com/drive/1ENV1wA59wjmOFhutnkFT_-aQNddbLCVy?usp=sharing)
+* Practicing Python
+  * [Practice 1](https://drive.google.com/file/d/1OaMLjPJv9Tz3RsO1TtWIjqR5Yrd36Oz9/view?usp=sharing)
+  * [Practice 2](https://drive.google.com/file/d/1FBWYpJ9hAE1n8men8cJ3DmPd9EMR8vvX/view?usp=sharing)
+  
 ## Design thinking
 
 * Ice breaker
@@ -69,10 +73,12 @@ Please note that the slides are in a Google Colab notebook.
 * Panel with AppFigures - Ariel Michaeli, Co-Founder, Oz Michaeli, Co-Founder & Head of Product, Alex Quick, Head of Engineering, Joshua Vernazza, Head of Data Science
 * Google - Josh Gordon, Developer Advocate, will show fun examples of deep learning applications
 * Seidenberg students' panel - Angela Bonsol (2021), Vivian Ng (2020), Vicente Gomez (2021)
+* Keynotes - James McCabe, Google Customer Success Manager and Keithe Bennet, Google Technical Operations Manager
+
 
 ## Data
 
-* The data that will be used are: [bop_data.csv](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/bop_data.csv). 
+* The data that will be used are: [bop_data.csv](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/bop_data.csv) and [bop_date2.csv](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/bop_data2.csv). 
 * A description of the data is in the [data dictionary](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/DataDictionary.csv).
 
 ## Billion Oyster Project (BOP) Resources
@@ -147,5 +153,5 @@ Presentations, code, murals etc.
 
 ## Ceremony
 
-* Summary presentation
-* Videos
+* [Summary presentation](https://docs.google.com/presentation/d/1QLYozHD5firVtWFXjRdoMNFaQRQzpLZsf9bQSpK5n8c/edit?usp=sharing)
+* [Videos](https://drive.google.com/file/d/1v1b5rc-kLkB1x6izX4PXX-6BjBzNGlut/view?usp=sharing )
